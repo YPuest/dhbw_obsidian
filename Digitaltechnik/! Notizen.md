@@ -1,3 +1,4 @@
+#DigitalTechnik 
 ## Allgemeines zum Kurs
 #### Zeit
 *Vorlesung:* 48 Stunden 
