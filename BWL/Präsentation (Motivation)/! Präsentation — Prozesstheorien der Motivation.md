@@ -5,13 +5,13 @@
 - **Was ist Motivation?**
 	<font style="color:MediumAquaMarine">Definition laut Duden: Gesamtheit der Beweggründe, Einflüsse, die eine Entscheidung, Handlung o.Ä. beeinflussen, bzw. zu einer Handlungsweise anregen</font> 
 	
-	Etwas weiter ausgeführt: Man spricht von Motivation, wenn bei einem Menschen eine Verhaltensänderung festgestellt wird. Man sagt, dass ein innerer Antrieb, die Motivation, zu dieser Änderung anregen. Grundlage dazu sind Bedürfnisse, Motive und Ziele eines Menschen, die er in sich trägt
+	Etwas weiter ausgeführt: Man spricht von Motivation, wenn bei einem Menschen eine Verhaltensänderung festgestellt wird. Man sagt, dass ein innerer Antrieb, die Motivation, zu dieser Änderung anregen. Grundlage dazu sind Bedürfnisse, Motive und Ziele eines Menschen, die er in sich trägt.
 	
 	*Formen von Motivation:*
-	- <font style="color:MediumAquaMarine">Intrinistische Motivation</font>
+	- <font style="color:MediumAquaMarine">Intrinsische Motivation</font>
 		Gilt als die stärkste Form der Motivation, denn der Antrieb wird in einem selbst erzeugt, man handelt also aus Selbstmotivation.
 		Das Ergebnis sind höhere Zufriedenheit, sowie zufriedenstellende Leistungen.
-	- <font style="color:MediumAquaMarine">Extrinistische Motivation</font>
+	- <font style="color:MediumAquaMarine">Extrinsische Motivation</font>
 		Die extrenistische Motivation entsteht durch äußere Anreize. Dabei soll häufig eine gewisse Verhaltensweise, ein bestimmtes Handeln gestärkt und gefestigt werden.
 		Im Bereich der Unternehmen findet meist eine extrinistische Motivation, beispielsweise durch den erhalt einer Bonuszahlung nach erreichen eines bestimmten Ziels, statt.
 		Allerdings kann diese Art der Motivation auch durch negative Reize erzeugt werden, beispiele hierfür sind Sanktionen und Strafen.
@@ -20,7 +20,7 @@
 	Prozesstheorien beschäftigen sich mit Prozessen der Entstehung, Ausrichtung und Intensität von menschlichem Verhalten und versuchen dieses Formal zu erklären. Genauer sollen sie erklären wie ein bestimmtes Verhalten erzeugt, gelenkt und abgebrochen werden kann. Dabei wird der Motivationsvorgang als Handlungsablauf betrachtet. 
 
 - **Was ist der *Homo Oeconomicus*?**
-	<font style="color:MediumAquaMarine">Definition laut Duden: <i>ausschließlich von Erwägungen der wirtschaftlcihen Zweckmäsigkeit geleiteter Mensch</i></font>
+	<font style="color:MediumAquaMarine">Definition laut Duden: <i>ausschließlich von Erwägungen der wirtschaftlichen Zweckmäßigkeit geleiteter Mensch</i></font>
 	Genauer gesagt ist der Homo Oeconomicus ist eine Modellvorstellung in der Wirtschaftstheorie eines idealen, ausschließlich nach wirtschaftlichen Gesichtspunkten denkenden und handelnden Menschen.
 	Charakteristisch für den Homo Oeconomicus ist:
 	- rationales Verhalten
